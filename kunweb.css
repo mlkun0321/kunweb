@@ -23,7 +23,7 @@ header {
   background-position: center;
   color: #AEC3E3;
   font-family: Georgia, "Times New Roman", serif;
-  padding: 0.25em
+  padding: 1em
 }
 
 main {
@@ -117,3 +117,4 @@ input, textarea {margin-bottom: .5em;}
 	
 
 }
+
