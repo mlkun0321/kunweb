@@ -21,7 +21,7 @@ header {
   background-image: url("website_logo.gif");
   background-repeat: no-repeat;
   background-position: center;
-  color: #AEC3E3;
+  color: #080808;
   font-family: Georgia, "Times New Roman", serif;
   padding: 1em
 }
@@ -115,6 +115,4 @@ input, textarea {margin-bottom: .5em;}
 				 font-size: 1.25em; }
 		}
 	
-
 }
-
