@@ -2,7 +2,7 @@
 body { 
   background-color: #FFFFFF;  
   color: #003366;             
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Times New Roman;
 }
 #wrapper { background-color: #F0F0F0;}
 
@@ -22,7 +22,7 @@ header {
   background-repeat: no-repeat;
   background-position: center;
   color: #080808;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: Times New Roman;
   padding: 1em
 }
 
@@ -49,13 +49,13 @@ dt {
   color: #5280C5; 
   font-size: 1.1em;
   font-weight: bold;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: Times New Roman;
 }
 
 .highlight {
   font-weight: bold;
   color: #AEC3E3;   
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: Times New Roman;
 }
 
 
@@ -116,3 +116,4 @@ input, textarea {margin-bottom: .5em;}
 		}
 	
 }
+
