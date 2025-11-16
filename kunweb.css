@@ -40,7 +40,7 @@ h2 {
 nav { 
   font-weight: bold;
   text-align: center;
-  background-color:#5280C5;
+  background-color:#73e0a0;
   padding: 0.5em;
 }
 
@@ -74,7 +74,7 @@ form { display: grid;
 input, textarea {margin-bottom: .5em;}
 @media (min-width: 600px) { 
 		header { background-image: url(website_logo.gif); }
-		h1        { font-size: 3em; }
+		h1        { font-size: 4em; }
 		nav ul   { flex-direction: row;
 		        flex-wrap: nowrap;
 				justify-content: space-around; }
@@ -116,5 +116,4 @@ input, textarea {margin-bottom: .5em;}
 		}
 	
 }
-
 
